@@ -1,0 +1,22 @@
+{
+  "name": "financial-indicators-package",
+  "version": "1.0.0",
+  "description": "A package for calculating various financial indicators",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "financial",
+    "indicators",
+    "moving average",
+    "EMA",
+    "RSI",
+    "Bollinger Bands"
+  ],
+  "author": "RK",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
